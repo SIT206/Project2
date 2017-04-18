@@ -12,6 +12,7 @@ import CoreData
 // Modifying AppDelegate
 // Let's try pull request
 //another modification
+//add text to Member1 branch
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
